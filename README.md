@@ -2,6 +2,8 @@
 helga
 =====
 
+[![Join the chat at https://gitter.im/timmwagener/helga](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/timmwagener/helga?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 <div align="center">
 	<a href="http://helga-docs.readthedocs.org/" target="_blank"><img src="http://www.kiiia.com/helga/images/github_readme_header.jpg"></a>
 </div>
